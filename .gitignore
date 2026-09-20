@@ -1,0 +1,31 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+# Models
+*.bin
+*.gguf
+
+# Data
+data/
+
+# Logs
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+.streamlit/secrets.toml
